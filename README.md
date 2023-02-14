@@ -7,5 +7,5 @@ Website: https://www.computervision.zone/
 ## mediapipe 
 ## open-cv 
 ## numpy
-### Knowledge of python with numpy is reuired.
+### Knowledge of python with numpy is required.
 ### Get the basics of opencv covered from youtube
