@@ -6,3 +6,6 @@ Website: https://www.computervision.zone/
 # Modules required 
 ## mediapipe 
 ## open-cv 
+## numpy
+### Knowledge of python with numpy is reuired.
+### Get the basics of opencv covered from youtube
